@@ -23,6 +23,8 @@
 
 ---
 
+### **Blogs and Articles**
+
 1. Solana Smart Contracts: Common Pitfalls and How to Avoid Them - (https://blog.neodyme.io/posts/solana_common_pitfalls/)
 2. From Ethereum smart contracts to Solana programs: two common security pitfalls and beyond - (https://medium.com/coinmonks/from-ethereum-smart-contracts-to-solana-programs-two-common-security-pitfalls-and-beyond-ea5b919ade1c)
 3. Sealevel Attacks - Common Solana Exploit Codes and Recommendations - (https://github.com/coral-xyz/sealevel-attacks)
