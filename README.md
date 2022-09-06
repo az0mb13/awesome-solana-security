@@ -3,7 +3,9 @@
 ## **Blogs on Audit Techniques and Vulnerabilities**
 
 ### **Soteria/Sec3 Series**
+
 **How to audit Solana smart contracts**
+
 1. Part 1: A systematic approach - (https://medium.com/coinmonks/how-to-audit-solana-smart-contracts-part-1-a-systematic-approach-56a434f6c9ed)
 2. Part 2: automated scanning - (https://medium.com/coinmonks/how-to-audit-solana-smart-contracts-part-2-automated-scanning-ceb88830ae6d)
 3. Part 3: penetration testing - (https://medium.com/coinmonks/how-to-audit-solana-smart-contracts-part-3-penetration-testing-a315b3bbb2d3)
@@ -12,7 +14,9 @@
 ---
 
 ### **BlockSec Series**
-**Secure the Solana Ecosystem** 
+
+**Secure the Solana Ecosystem**
+
 1. Hello Solana - (https://blocksecteam.medium.com/secure-the-solana-ecosystem-1-hello-solana-bb7ecc1e6b21)
 2. Calling Between Programs - (https://blocksecteam.medium.com/secure-the-solana-ecosystem-2-calling-between-programs-5fa3d947c4ed)
 3. Program Upgrade - (https://blocksecteam.medium.com/secure-the-solana-ecosystem-3-program-upgrade-5590c746016)
@@ -36,6 +40,7 @@
 ---
 
 ## Audit Reports
+
 1. Bonafida Security Assessment by Kudelski Security - (https://github.com/Bonfida/token-vesting/blob/master/audit/Bonfida_SecurityAssessment_Vesting_Final050521.pdf)
 2. Solana Quantstampt Stake Pool Audit - (https://solana.com/SolanaQuantstampStakePoolAudit.pdf)
 3. SPL Stake Pool by Neodyme - (https://solana.com/SolanaNeodymeStakePoolAudit.pdf)
@@ -56,6 +61,7 @@
 ---
 
 ## Beginner-friendly Development Resources
+
 1. How to Build & Deploy Smart Contracts on Solana - (https://www.leewayhertz.com/build-solana-smart-contracts/)
 2. learn-web3-dapp - (https://github.com/figment-networks/learn-web3-dapp)
 3. Learning Rust - (https://learning-rust.github.io/docs/a3.hello_world.html)
@@ -63,10 +69,12 @@
 ---
 
 ## Scanners and Tools
+
 1. Soteria - (https://medium.com/coinmonks/soteria-a-vulnerability-scanner-for-solana-smart-contracts-cc202cf17c99)
 ---
 
 ## CTFs
+
 1. Solana CTF Framework by Ottersec - (https://github.com/otter-sec/sol-ctf-framework)
 2. Solana CTF Challenges by Neodyme - (https://github.com/neodyme-labs/solana-ctf)
 
@@ -74,5 +82,6 @@
 ---
 
 ## Interesting Github Repositories
+
 1. Solana POC Framework - (https://github.com/otter-sec/solana-poc-framework)
 2. Awesome Solana - (https://github.com/avareum/awesome-solana)
