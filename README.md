@@ -3,6 +3,9 @@
 ## **Blogs on Audit Techniques and Vulnerabilities**
 1. Solana Smart Contracts: Common Pitfalls and How to Avoid Them - (https://blog.neodyme.io/posts/solana_common_pitfalls/)
 2. From Ethereum smart contracts to Solana programs: two common security pitfalls and beyond - (https://medium.com/coinmonks/from-ethereum-smart-contracts-to-solana-programs-two-common-security-pitfalls-and-beyond-ea5b919ade1c)
+3. Sealevel Attacks - Common Solana Exploit Codes and Recommendations - (https://github.com/coral-xyz/sealevel-attacks)
+4. How to Hack Solana Smart Contracts/Programs - (https://halborn.com/how-to-hack-solana-smart-contracts-programs/)
+---
 
 ### **Soteria/Sec3 Series**
 **How to audit Solana smart contracts**
@@ -10,6 +13,8 @@
 2. Part 2: automated scanning - (https://medium.com/coinmonks/how-to-audit-solana-smart-contracts-part-2-automated-scanning-ceb88830ae6d)
 3. Part 3: penetration testing - (https://medium.com/coinmonks/how-to-audit-solana-smart-contracts-part-3-penetration-testing-a315b3bbb2d3)
 4. Part 4: the Anchor framework - (https://medium.com/coinmonks/how-to-audit-solana-smart-contracts-part-4-the-anchor-framework-ef42d944f086)
+
+---
 
 ### **BlockSec Series**
 **Secure the Solana Ecosystem** 
