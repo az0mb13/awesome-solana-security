@@ -1,14 +1,6 @@
 # Awesome Solana Security
 
 ## **Blogs on Audit Techniques and Vulnerabilities**
-1. Solana Smart Contracts: Common Pitfalls and How to Avoid Them - (https://blog.neodyme.io/posts/solana_common_pitfalls/)
-2. From Ethereum smart contracts to Solana programs: two common security pitfalls and beyond - (https://medium.com/coinmonks/from-ethereum-smart-contracts-to-solana-programs-two-common-security-pitfalls-and-beyond-ea5b919ade1c)
-3. Sealevel Attacks - Common Solana Exploit Codes and Recommendations - (https://github.com/coral-xyz/sealevel-attacks)
-4. How to Hack Solana Smart Contracts/Programs - (https://halborn.com/how-to-hack-solana-smart-contracts-programs/)
-5. Solana: An Auditor's Introduction - (https://osec.io/blog/tutorials/2022-03-14-solana-security-intro/)
-6. The Story of the Curious Rent Thief - (https://osec.io/blog/reports/2022-08-19-solend-rent-thief/)
-   
----
 
 ### **Soteria/Sec3 Series**
 **How to audit Solana smart contracts**
@@ -28,7 +20,16 @@
 5. Multi-Sig - (https://blocksecteam.medium.com/secure-the-solana-ecosystem-5-multi-sig-99b74bbb3bfe)
 6. Multi-Sig2 - (https://blocksecteam.medium.com/secure-the-solana-ecosystem-6-multi-sig2-ef3e8d6cfe6f)
 7. Type Confusion - (https://blocksecteam.medium.com/secure-the-solana-ecosystem-7-type-confusion-90dbc19cd0cb)
- 
+
+---
+
+1. Solana Smart Contracts: Common Pitfalls and How to Avoid Them - (https://blog.neodyme.io/posts/solana_common_pitfalls/)
+2. From Ethereum smart contracts to Solana programs: two common security pitfalls and beyond - (https://medium.com/coinmonks/from-ethereum-smart-contracts-to-solana-programs-two-common-security-pitfalls-and-beyond-ea5b919ade1c)
+3. Sealevel Attacks - Common Solana Exploit Codes and Recommendations - (https://github.com/coral-xyz/sealevel-attacks)
+4. How to Hack Solana Smart Contracts/Programs - (https://halborn.com/how-to-hack-solana-smart-contracts-programs/)
+5. Solana: An Auditor's Introduction - (https://osec.io/blog/tutorials/2022-03-14-solana-security-intro/)
+6. The Story of the Curious Rent Thief - (https://osec.io/blog/reports/2022-08-19-solend-rent-thief/)
+   
 
 ---
 
@@ -45,6 +46,10 @@
 10. Cega Vault by Ottersec - (https://github.com/otter-sec/cega-vault-report/blob/main/cega-vault-audit-public.pdf)
 11. Port Finance Sundial by Ottersec - (https://github.com/port-finance/sundial/blob/master/audits/port-finance-sundial-audit-public.pdf)
 12. Jet Governance by Ottersec - (https://github.com/jet-lab/jet-governance/blob/master/reports/jet-governance-audit-public.pdf)
+
+---
+
+## Solana Real-life Exploits and Hacks
 
 ---
 
@@ -68,3 +73,4 @@
 
 ## Interesting Github Repositories
 1. Solana POC Framework - (https://github.com/otter-sec/solana-poc-framework)
+2. Awesome Solana - (https://github.com/avareum/awesome-solana)
