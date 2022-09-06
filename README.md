@@ -1,7 +1,8 @@
 # Awesome Solana Security
 
-## **Audit Techniques and Blogs**
+## **Blogs on Audit Techniques and Vulnerabilities**
 1. Solana Smart Contracts: Common Pitfalls and How to Avoid Them - (https://blog.neodyme.io/posts/solana_common_pitfalls/)
+2. From Ethereum smart contracts to Solana programs: two common security pitfalls and beyond - (https://medium.com/coinmonks/from-ethereum-smart-contracts-to-solana-programs-two-common-security-pitfalls-and-beyond-ea5b919ade1c)
 
 ### **Soteria/Sec3 Series**
 **How to audit Solana smart contracts**
@@ -27,3 +28,7 @@
 ## Beginner-friendly Development Resources
 1. How to Build & Deploy Smart Contracts on Solana - (https://www.leewayhertz.com/build-solana-smart-contracts/)
 2. learn-web3-dapp - (https://github.com/figment-networks/learn-web3-dapp)
+3. Learning Rust - (https://learning-rust.github.io/docs/a3.hello_world.html)
+---
+
+## Scanners and Tools
