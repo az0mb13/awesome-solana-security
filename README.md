@@ -32,10 +32,13 @@
 1. Solana Smart Contracts: Common Pitfalls and How to Avoid Them - (https://blog.neodyme.io/posts/solana_common_pitfalls/)
 2. From Ethereum smart contracts to Solana programs: two common security pitfalls and beyond - (https://medium.com/coinmonks/from-ethereum-smart-contracts-to-solana-programs-two-common-security-pitfalls-and-beyond-ea5b919ade1c)
 3. Sealevel Attacks - Common Solana Exploit Codes and Recommendations - (https://github.com/coral-xyz/sealevel-attacks)
-4. How to Hack Solana Smart Contracts/Programs - (https://halborn.com/how-to-hack-solana-smart-contracts-programs/)
-5. Solana: An Auditor's Introduction - (https://osec.io/blog/tutorials/2022-03-14-solana-security-intro/)
-6. The Story of the Curious Rent Thief - (https://osec.io/blog/reports/2022-08-19-solend-rent-thief/)
-   
+4. 10 vulnerabilities - A twitter thread about Sealevel Attacks - (https://twitter.com/pencilflip/status/1483880018858201090)
+5. How to Hack Solana Smart Contracts/Programs - (https://halborn.com/how-to-hack-solana-smart-contracts-programs/)
+6. Solana: An Auditor's Introduction - (https://osec.io/blog/tutorials/2022-03-14-solana-security-intro/)
+7. The Story of the Curious Rent Thief - (https://osec.io/blog/reports/2022-08-19-solend-rent-thief/)
+8. Breakpoint 2021: Think Like an Attacker: Bringing Smart Contracts to Their Break(ing) Point - (https://www.youtube.com/watch?v=vbkhhgeP30I)
+9. Solana Program Security - Part 1 - (https://research.kudelskisecurity.com/2021/09/15/solana-program-security-part1/)
+
 
 ---
 
@@ -53,7 +56,7 @@
 10. Cega Vault by Ottersec - (https://github.com/otter-sec/cega-vault-report/blob/main/cega-vault-audit-public.pdf)
 11. Port Finance Sundial by Ottersec - (https://github.com/port-finance/sundial/blob/master/audits/port-finance-sundial-audit-public.pdf)
 12. Jet Governance by Ottersec - (https://github.com/jet-lab/jet-governance/blob/master/reports/jet-governance-audit-public.pdf)
-
+13. Marinade Finance by Kudelski - (https://solana.com/solana-security-audit-2019.pdf)
 ---
 
 ## Solana Real-life Exploits and Hacks
@@ -77,6 +80,7 @@
 
 1. Solana CTF Framework by Ottersec - (https://github.com/otter-sec/sol-ctf-framework)
 2. Solana CTF Challenges by Neodyme - (https://github.com/neodyme-labs/solana-ctf)
+3. Neodyme Workshop - (https://workshop.neodyme.io/)
 
 
 ---
