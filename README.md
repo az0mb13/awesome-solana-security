@@ -38,6 +38,7 @@
 7. The Story of the Curious Rent Thief - (https://osec.io/blog/reports/2022-08-19-solend-rent-thief/)
 8. Breakpoint 2021: Think Like an Attacker: Bringing Smart Contracts to Their Break(ing) Point - (https://www.youtube.com/watch?v=vbkhhgeP30I)
 9. Solana Program Security - Part 1 - (https://research.kudelskisecurity.com/2021/09/15/solana-program-security-part1/)
+10. Typical and Unique Issues for the NEAR Protocol - (https://0xguard.com/near_protocol/tpost/ja553x8db1-typical-and-unique-issues-for-the-near-p)
 
 
 ---
@@ -63,17 +64,10 @@
 
 ---
 
-## Beginner-friendly Development Resources
-
-1. How to Build & Deploy Smart Contracts on Solana - (https://www.leewayhertz.com/build-solana-smart-contracts/)
-2. learn-web3-dapp - (https://github.com/figment-networks/learn-web3-dapp)
-3. Learning Rust - (https://learning-rust.github.io/docs/a3.hello_world.html)
-
----
-
 ## Scanners and Tools
 
 1. Soteria - (https://medium.com/coinmonks/soteria-a-vulnerability-scanner-for-solana-smart-contracts-cc202cf17c99)
+2. Siderophile - (https://github.com/trailofbits/siderophile)
 ---
 
 ## CTFs
@@ -89,3 +83,13 @@
 
 1. Solana POC Framework - (https://github.com/otter-sec/solana-poc-framework)
 2. Awesome Solana - (https://github.com/avareum/awesome-solana)
+
+---
+
+## Beginner-friendly Development Resources
+
+1. How to Build & Deploy Smart Contracts on Solana - (https://www.leewayhertz.com/build-solana-smart-contracts/)
+2. learn-web3-dapp - (https://github.com/figment-networks/learn-web3-dapp)
+3. Learning Rust - (https://learning-rust.github.io/docs/a3.hello_world.html)
+
+---
