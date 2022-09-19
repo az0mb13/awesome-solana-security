@@ -89,8 +89,9 @@
 
 ## Beginner-friendly Development Resources
 
-1. How to Build & Deploy Smart Contracts on Solana - (https://www.leewayhertz.com/build-solana-smart-contracts/)
-2. learn-web3-dapp - (https://github.com/figment-networks/learn-web3-dapp)
-3. Learning Rust - (https://learning-rust.github.io/docs/a3.hello_world.html)
+1. Setting-up Solana Development Environment - (https://github.com/LearnWithArjun/solana-env-setup)
+2. How to Build & Deploy Smart Contracts on Solana - (https://www.leewayhertz.com/build-solana-smart-contracts/)
+3. learn-web3-dapp - (https://github.com/figment-networks/learn-web3-dapp)
+4. Learning Rust - (https://learning-rust.github.io/docs/a3.hello_world.html)
 
 ---
