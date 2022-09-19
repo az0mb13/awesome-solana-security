@@ -1,4 +1,5 @@
 # Awesome Solana Security
+**Contributions are most welcome**
 
 ## **Blogs on Audit Techniques and Vulnerabilities**
 
