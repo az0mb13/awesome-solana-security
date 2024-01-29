@@ -70,6 +70,7 @@
 1. Soteria - (https://medium.com/coinmonks/soteria-a-vulnerability-scanner-for-solana-smart-contracts-cc202cf17c99)
 2. Siderophile - (https://github.com/trailofbits/siderophile)
 3. List of Cargo crates and Tools for auditing rust - (https://www.reddit.com/r/rust/comments/ufwryc/comment/i6w629y/)
+4. L3X, AI-driven Smart Contract Static Analyzer - (https://github.com/VulnPlanet/l3x)
 ---
 
 ## CTFs
