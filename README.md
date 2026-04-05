@@ -72,6 +72,7 @@
 3. List of Cargo crates and Tools for auditing rust - (https://www.reddit.com/r/rust/comments/ufwryc/comment/i6w629y/)
 4. L3X, AI-driven Smart Contract Static Analyzer - (https://github.com/VulnPlanet/l3x)
 5. First and only fuzzing framework for Solana smart contracts. Performs manually-guided fuzzing with flow-based sequences and property-based testing to discover vulnerabilities - [Trident](https://usetrident.xyz/)
+6. RegPilot (https://regpilot.io) - Consumer-friendly token safety platform for Solana. Instant 0-100 trust score covering smart contract risk, liquidity depth, holder distribution, audit status and on-chain red flags. Free. No wallet required.
 ---
 
 ## CTFs
