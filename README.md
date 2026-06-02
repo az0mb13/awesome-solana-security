@@ -74,7 +74,7 @@
 5. First and only fuzzing framework for Solana smart contracts. Performs manually-guided fuzzing with flow-based sequences and property-based testing to discover vulnerabilities - [Trident](https://usetrident.xyz/)
 6. RegPilot (https://regpilot.io) - Consumer-friendly token safety platform for Solana. Instant 0-100 trust score covering smart contract risk, liquidity depth, holder distribution, audit status and on-chain red flags. Free. No wallet required.
 7. Sharpe Rug Check (https://www.sharpe.ai/rug-check) - Free multi-chain token safety scanner and rug pull checker. 0-100 risk score for Solana (SPL + Token-2022) with mint/freeze/update authority checks, Raydium LP lock verification, Jupiter-based honeypot simulation, and holder-concentration analysis. Also covers Ethereum, Base, BSC, Arbitrum, and Polygon. Public REST API and MCP server. No wallet required.
-8. - [Pumpora](https://pumpora.net) — Telegram bot that scores pump.fun tokens across 10 on-chain signals (dev wallet history, bundled supply, freeze authority, liquidity lock). Returns a 0–100 risk score in 3 seconds.
+8. [Pumpora](https://pumpora.net) — Telegram bot that scores pump.fun tokens across 10 on-chain signals (dev wallet history, bundled supply, freeze authority, liquidity lock). Returns a 0–100 risk score in 3 seconds.
 ---
 
 ## CTFs
