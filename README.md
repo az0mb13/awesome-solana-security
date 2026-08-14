@@ -78,6 +78,7 @@
 7. Sharpe Rug Check (https://www.sharpe.ai/rug-check) - Free multi-chain token safety scanner and rug pull checker. 0-100 risk score for Solana (SPL + Token-2022) with mint/freeze/update authority checks, Raydium LP lock verification, Jupiter-based honeypot simulation, and holder-concentration analysis. Also covers Ethereum, Base, BSC, Arbitrum, and Polygon. Public REST API and MCP server. No wallet required.
 8. [Pumpora](https://pumpora.net) — Telegram bot that scores pump.fun tokens across 10 on-chain signals (dev wallet history, bundled supply, freeze authority, liquidity lock). Returns a 0–100 risk score in 3 seconds.
 9. [TWZRD Agent Intel](https://intel.twzrd.xyz) - Solana-native MCP server for AI agent trust scoring and x402 receipt verification. Free preflight trust assessment + signed V5 receipts at https://intel.twzrd.xyz
+10. [n8n Solana Mint/Program Monitor](https://github.com/DeusAcc/n8n-solana-mint-monitor) - Free, MIT-licensed n8n workflow: watches an SPL mint or program ID via public RPC and alerts on Telegram on new transactions, no external DB, no wallet required
 
 ---
 
