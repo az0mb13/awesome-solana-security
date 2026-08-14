@@ -62,6 +62,7 @@
 ---
 
 ## Solana Real-life Exploits and Hacks
+- [n8n-solana-price-alert](https://github.com/DeusAcc/n8n-solana-price-alert) - Free n8n workflow that alerts on Telegram when a Solana token crosses a price threshold, no API key needed.
 
 ---
 
