@@ -63,6 +63,8 @@
 
 ## Solana Real-life Exploits and Hacks
 
+1. [Solana History Map](https://www.meow-woof.org) - Open-source, source-cited interactive atlas of Solana incidents, with playable teardowns of the Wormhole bridge verification failure, Mango oracle manipulation, and other incident mechanisms.
+
 ---
 
 ## Scanners and Tools
