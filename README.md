@@ -87,6 +87,7 @@
 1. Solana CTF Framework by Ottersec - (https://github.com/otter-sec/sol-ctf-framework)
 2. Solana CTF Challenges by Neodyme - (https://github.com/neodyme-labs/solana-ctf)
 3. Neodyme Workshop - (https://workshop.neodyme.io/)
+11. mintcheck (https://arijon13.github.io/mintcheck/) - Free SPL token rug-flag checker. Paste a mint and see whether the mint authority can still print supply and whether the freeze authority can freeze your tokens. Runs entirely in the browser against public RPC - no wallet, no signup, no backend. MIT licensed, source at https://github.com/arijon13/mintcheck
 
 
 ---
