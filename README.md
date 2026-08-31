@@ -79,6 +79,7 @@
 8. [Pumpora](https://pumpora.net) — Telegram bot that scores pump.fun tokens across 10 on-chain signals (dev wallet history, bundled supply, freeze authority, liquidity lock). Returns a 0–100 risk score in 3 seconds.
 9. [TWZRD Agent Intel](https://intel.twzrd.xyz) - Solana-native MCP server for AI agent trust scoring and x402 receipt verification. Free preflight trust assessment + signed V5 receipts at https://intel.twzrd.xyz
 10. [n8n Solana Mint/Program Monitor](https://github.com/DeusAcc/n8n-solana-mint-monitor) - Free, MIT-licensed n8n workflow: watches an SPL mint or program ID via public RPC and alerts on Telegram on new transactions, no external DB, no wallet required
+11. [Peso RugScore](https://peso.manzier.com) — Scores the pump.fun *developer* rather than the token: the calibrated probability that their next launch draws 5+ SOL from buyers and then dies. Not a heuristic checklist but a measured rate, fitted lookahead-free over 367,839 resolved launches and regenerated every 3 hours, spanning 0.30% to 26.93%. HTTP API, web app and Telegram bot; free unauthenticated methodology endpoint at [/v1/meta](https://peso.manzier.com/v1/meta) and 3 free lookups per IP per day, no wallet required.
 
 ---
 
