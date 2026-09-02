@@ -95,6 +95,7 @@
 
 1. Solana POC Framework - (https://github.com/otter-sec/solana-poc-framework)
 2. Awesome Solana - (https://github.com/avareum/awesome-solana)
+3. Solana Scanner Benchmark (https://github.com/AIOilShield/solana-scanner-benchmark) - Open corpus for measuring automated Solana scanners: 19 vulnerable and 7 clean Anchor programs, with a written description of every planted flaw used as ground truth. MIT.
 
 ---
 
