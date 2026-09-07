@@ -79,6 +79,7 @@
 8. [Pumpora](https://pumpora.net) — Telegram bot that scores pump.fun tokens across 10 on-chain signals (dev wallet history, bundled supply, freeze authority, liquidity lock). Returns a 0–100 risk score in 3 seconds.
 9. [TWZRD Agent Intel](https://intel.twzrd.xyz) - Solana-native MCP server for AI agent trust scoring and x402 receipt verification. Free preflight trust assessment + signed V5 receipts at https://intel.twzrd.xyz
 10. [n8n Solana Mint/Program Monitor](https://github.com/DeusAcc/n8n-solana-mint-monitor) - Free, MIT-licensed n8n workflow: watches an SPL mint or program ID via public RPC and alerts on Telegram on new transactions, no external DB, no wallet required
+11. [DeFade](https://defade.org) - Memecoin forensics scanner with a 0-100 rug score built from 31 modules. Goes past authority and LP checks into actor attribution: launch-bundle detection that follows sell-and-forward hops, fresh-wallet cohorts traced to the exchange that funded them by KYC tier, sniper hold/sold/transferred classification, and deployer reputation across a creator's past launches. Solana plus Ethereum, Base and Robinhood Chain. Web, Telegram bot, REST API and an MCP server (15 tools) at https://api.defade.org/mcp. Free tier, no wallet required.
 
 ---
 
