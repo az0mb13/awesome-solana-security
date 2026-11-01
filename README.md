@@ -95,6 +95,7 @@
 
 1. Solana POC Framework - (https://github.com/otter-sec/solana-poc-framework)
 2. Awesome Solana - (https://github.com/avareum/awesome-solana)
+3. Solana security checklists (pre-launch, Anchor, audit readiness) - (https://github.com/JakeMalarczyk/solana-security-checklists)
 
 ---
 
